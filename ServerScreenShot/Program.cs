@@ -92,7 +92,7 @@ namespace ServerScreenShot
                                 switch (command)
                                 {
                                     case "all":
-                                        Console.WriteLine("the method isn't ready yet");
+                                        Console.WriteLine("the method all isn't ready yet");
                                         break;
                                     case "list":
                                         sendFileList(IMAGEDIRECTORY, stream);
